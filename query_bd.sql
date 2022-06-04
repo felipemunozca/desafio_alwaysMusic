@@ -1,0 +1,9 @@
+CREATE DATABASE alwaysMusic;
+
+CREATE TABLE alumnos (
+    id SERIAL PRIMARY KEY,
+	nombre VARCHAR (50) NOT NULL,
+	rut VARCHAR (15) NOT NULL,
+	curso VARCHAR (30) NOT NULL,
+	nivel VARCHAR (10) NOT NULL
+);
