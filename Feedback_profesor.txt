@@ -1,0 +1,29 @@
+Feedback Desafío - Always Music
+
+Buen trabajo, se cumple con todos los requerimientos.
+
+Requerimientos:
+
+1. Realizar la conexión con PostgreSQL con la clase Client. (1 Punto)
+
+    Puntaje obtenido: 1
+
+2. Crear una función asíncrona para registrar un nuevo estudiante en la base de datos. (2 Puntos)
+
+    Puntaje obtenido: 2
+
+3. Crear una función asíncrona para obtener por consola el registro de un estudiante por medio de su rut. (2 Puntos)
+
+    Puntaje obtenido: 2
+
+4. Crear una función asíncrona para obtener por consola todos los estudiantes registrados. (1 Punto)
+
+    Puntaje obtenido: 1
+
+5. Crear una función asíncrona para actualizar los datos de un estudiante en la base de datos. (2 Puntos)
+
+    Puntaje obtenido: 2
+
+6. Crear una función asíncrona para eliminar el registro de un estudiante de la base de datos. (2 Puntos)
+
+    Puntaje obtenido: 2
